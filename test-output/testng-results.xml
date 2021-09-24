@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29893" started-at="2021-09-23T18:03:31 GMT+05:30" finished-at="2021-09-23T18:04:01 GMT+05:30">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29893" started-at="2021-09-23T18:03:31 GMT+05:30" finished-at="2021-09-23T18:04:01 GMT+05:30">
+      <class name="com.DataProvider_Demo.Data_Provider_Demo">
+        <test-method status="PASS" signature="data_Credentials(java.lang.String,java.lang.String)[pri:0, instance:com.DataProvider_Demo.Data_Provider_Demo@560348e6]" name="data_Credentials" duration-ms="17526" started-at="2021-09-23T18:03:31 GMT+05:30" data-provider="test_Data" finished-at="2021-09-23T18:03:49 GMT+05:30">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vishaalseenu1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vishal@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data_Credentials -->
+        <test-method status="PASS" signature="data_Credentials(java.lang.String,java.lang.String)[pri:0, instance:com.DataProvider_Demo.Data_Provider_Demo@560348e6]" name="data_Credentials" duration-ms="9286" started-at="2021-09-23T18:03:49 GMT+05:30" data-provider="test_Data" finished-at="2021-09-23T18:03:58 GMT+05:30">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vishnu2101996@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fzrider02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data_Credentials -->
+        <test-method status="PASS" signature="logOut()[pri:1, instance:com.DataProvider_Demo.Data_Provider_Demo@560348e6]" name="logOut" duration-ms="2913" started-at="2021-09-23T18:03:58 GMT+05:30" finished-at="2021-09-23T18:04:01 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- com.DataProvider_Demo.Data_Provider_Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
